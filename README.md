@@ -1,16 +1,58 @@
-# cumaliyelbizmobil
+# 📱 old-portfolio-flutter-panel
 
-A new Flutter project.
+Bu proje, eski portfolyo sitemin Flutter ile geliştirilmiş **mobil panel tarzı** sürümüdür.  
+Mobil uygulama hissiyatı veren bir kullanıcı arayüzü sunmak için tasarlanmıştır.  
+Web üzerinde çalışacak şekilde Flutter Web ile derlenmiştir.
 
-## Getting Started
+Yeni portfolyo siteme buradan ulaşabilirsiniz:  
+👉 [https://cumali.yelbiz.com.tr](https://cumali.yelbiz.com.tr)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+This project is the **mobile-style panel** version of my old portfolio site, built with Flutter.  
+It was designed to provide an app-like user interface experience on web.  
+Compiled using Flutter Web for browser access.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+You can check out my current portfolio here:  
+👉 [https://cumali.yelbiz.com.tr](https://cumali.yelbiz.com.tr)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ⚙️ Kullanılan Teknolojiler | Tech Stack
+
+- **Flutter**  
+- **Dart**  
+- Flutter Web (build)  
+- Mobil panel UI / responsive tasarım  
+- Stateless & stateful widget yapısı
+
+---
+
+## 🎯 Amaç | Purpose
+
+Portfolyomu farklı bir yaklaşımla, mobil uygulama mantığıyla sunmak istedim.  
+Klasik web sayfası yerine, tek ekranlı ve sade bir panel arayüzü tasarlandı.
+
+---
+
+I wanted to present my portfolio with a different approach — more like a mobile app.  
+Instead of a classic web layout, this version focuses on a single-screen panel-style UI.
+
+---
+
+## 📁 Durum | Status
+
+Bu proje şu anda sadece arşiv amaçlı tutulmaktadır.  
+Yeni geliştirmeler yapılması planlanmamaktadır.
+
+---
+
+This project is currently archived and not under active development.  
+No updates are planned.
+
+---
+
+## 🔗 Yeni Portfolyo | New Portfolio
+
+👉 [https://cumali.yelbiz.com.tr](https://cumali.yelbiz.com.tr)
+
